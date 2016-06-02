@@ -1,0 +1,1 @@
+用于scrapy源码研究。简单的sprider。
