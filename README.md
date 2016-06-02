@@ -1,1 +1,1 @@
-用于scrapy源码研究。简单的sprider。
+用于scrapy源码研究的pycharm工程。简单的sprider。
